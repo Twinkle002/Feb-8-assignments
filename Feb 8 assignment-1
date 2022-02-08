@@ -1,0 +1,11 @@
+comparision operators
+
+a=int(input('ENTER VALUE OF a:'))
+b=int(input('ENTER VALUE OF b:'))
+print("following comparision operators:")
+print('a<b is',a<b)
+print('a>b is',a>b)
+print('a==b is',a==b)
+print('a!=b is',a!=b)
+print('a>=b is',a>=b)
+print('a<=b is',a<=b)
